@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=festTicketQ
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=sourceQueue\ tempQueue\ festivalName
+comment2.target=void\ displayTicketDetails(Queue,\ Queue,\ java.lang.String)
+comment3.params=queue\ temporary\ conditionType\ conditionValue\ found
+comment3.target=void\ removeTicket(Queue,\ Queue,\ java.lang.String,\ java.lang.String,\ boolean)
+comment4.params=ticketQ
+comment4.target=void\ readFile(Queue)
+numComments=5

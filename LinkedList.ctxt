@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment0.text=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\nDefinition\ of\ LinkedList\ Class\ \r\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=**
+comment1.params=
+comment1.target=LinkedList()
+comment10.params=element
+comment10.target=boolean\ contains(java.lang.Object)
+comment11.params=
+comment11.target=java.lang.Object\ removeFirst()
+comment12.params=
+comment12.target=java.lang.Object\ removeLast()
+comment13.params=element
+comment13.target=java.lang.Object\ removeAfter(java.lang.Object)
+comment14.params=
+comment14.target=int\ size()
+comment15.params=
+comment15.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=element
+comment3.target=void\ addFirst(java.lang.Object)
+comment4.params=element
+comment4.target=void\ addLast(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.Object\ getFirst()
+comment6.params=
+comment6.target=java.lang.Object\ getHead()
+comment7.params=
+comment7.target=java.lang.Object\ getLast()
+comment8.params=
+comment8.target=java.lang.Object\ getNext()
+comment9.params=
+comment9.target=void\ clear()
+numComments=16

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=festTicketLL
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=sourceList\ festivalName
+comment2.target=void\ displayTicketDetails(LinkedList,\ java.lang.String)
+comment3.params=ticketList
+comment3.target=void\ readFile(LinkedList)
+numComments=4
